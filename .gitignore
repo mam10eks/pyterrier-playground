@@ -1,0 +1,8 @@
+.cache/
+.config/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.pyterrier/
+.python_history
